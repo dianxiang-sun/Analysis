@@ -5,6 +5,17 @@ created:>=2019-01-01 9,674,407 available repository results
 Weekly  
 
 created:2019-01-01..2019-01-08 314,945 repository results  
+Languages
+45,578JavaScript
+32,414Java
+32,088HTML
+24,553Python
+9,705C++
+9,240CSS
+8,885PHP
+8,637C#
+8,007Jupyter Notebook
+6,758TypeScript  
 created:2019-01-08..2019-01-15 353,402 repository results  
 created:2019-01-15..2019-01-22 347,973 repository results  
 created:2019-01-22..2019-01-29 356,323 repository results  
