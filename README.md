@@ -1099,16 +1099,160 @@ Languages
 4  Jupyter Notebook  
 4  Rust  
 4  Shell  
-
-
-
-
-
-
-
-
-
-
+created:2019-04-01..2019-05-01 stars:>1000 130 repository results
+Languages
+30 Python  
+17 JavaScript  
+12 Go  
+7 TypeScript  
+6 Java  
+6 Rust  
+5 C++  
+3 C  
+3 Shell  
+3 Swift  
+created:2019-05-01..2019-06-01 stars:>1000  102 repository results  
+Languages
+18 Python  
+16 JavaScript  
+9 Go  
+6 Jupyter Notebook  
+6 PHP  
+5 C++  
+5 TypeScript  
+4 C  
+4 Java  
+4 Kotlin  
+created:2019-06-01..2019-07-01 stars:>1000  109 repository results
+Languages
+19 Python  
+15 JavaScript  
+11 Swift  
+11 TypeScript  
+7 Go  
+6 C++  
+4 C  
+4 Rust  
+3 Dart  
+3 Java  
+created:2019-07-01..2019-08-01 stars:>1000  86 repository results
+Languages
+15 Python  
+10 JavaScript  
+9 Go  
+6 C  
+5 Java  
+5 Rust  
+4 C++  
+4 HTML  
+3 Jupyter Notebook  
+3 TypeScript  
+created:2019-08-01..2019-09-01 stars:>1000  71 repository results
+Languages
+14 Python  
+8 JavaScript  
+6 Rust  
+6 TypeScript  
+5 C++  
+5 Go  
+4 Java  
+3 Dart  
+3 Vue  
+2 C  
+created:2019-09-01..2019-10-01 stars:>1000 67 repository results
+Languages
+12 Python  
+7 Go  
+7 JavaScript  
+5 C++  
+5 Java  
+4 C  
+3 CSS  
+3 TypeScript  
+2 Dart  
+2 Kotlin  
+created:2019-10-01..2019-11-01 stars:>1000  55 repository results
+Languages
+13 Python  
+8 JavaScript  
+3 C++  
+3 Rust  
+3 TypeScript  
+2 C  
+2 C#  
+2 CSS  
+2 Dart  
+2 Go  
+created:2019-11-01..2019-12-01 stars:>1000  46 repository results
+Languages
+11 JavaScript  
+6 Python  
+4 C++  
+3 TypeScript  
+2 C  
+2 Go  
+2 Rust  
+2 Swift  
+1 Assembly  
+1 C#  
+created:2019-12-01..2020-01-01 stars:>1000 37 repository results
+Languages
+8 JavaScript  
+4 Rust  
+3 Python  
+2 Go  
+2 Shell  
+2 TypeScript  
+1 C  
+1 CSS  
+1 Dart  
+1 Jupyter Notebook  
+created:2020-01-01..2020-02-01 stars:>1000  32 repository results
+Languages
+8 Python  
+5 TypeScript  
+3 Go  
+2 JavaScript  
+1 C  
+1 C++  
+1 Emacs Lisp  
+1 Java  
+1 Jupyter Notebook  
+1 PHP  
+created:2020-02-01..2020-03-01 stars:>1000 36 repository results
+Languages
+7 Python  
+6 TypeScript  
+3 HTML  
+3 Jupyter Notebook  
+2 C  
+2 Swift  
+1 C++  
+1 Go  
+1 Java  
+1 JavaScript  
+created:2020-03-01..2020-04-01 stars:>1000 35 repository results
+Languages
+8 JavaScript  
+4 Jupyter Notebook  
+4 Python  
+2 C  
+2 C++  
+2 Dart  
+2 Go  
+2 HTML  
+1 AppleScript  
+1 Kotlin  
+created:2020-04-01..2020-05-01 stars:>1000 13 repository results
+Languages
+4 Python  
+2 HTML  
+2 TypeScript  
+1 COBOL  
+1 CSS  
+1 JavaScript  
+1 Jupyter Notebook  
+1 Shell  
 
 
 ---------------------------------------------------------------------------------------------------------
