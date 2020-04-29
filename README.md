@@ -17,6 +17,17 @@ Languages
 8,007 Jupyter Notebook  
 6,758 TypeScript    
 created:2019-01-08..2019-01-15 353,402 repository results  
+Languages
+51,133 JavaScript  
+37,603 HTML  
+37,193 Java  
+27,394 Python  
+10,684 CSS  
+10,378 PHP  
+10,348 C#  
+10,015 C++  
+9,560 Jupyter Notebook  
+7,562 TypeScript  
 created:2019-01-15..2019-01-22 347,973 repository results  
 created:2019-01-22..2019-01-29 356,323 repository results  
 created:2019-01-29..2019-02-25 1,244,668 repository results  
