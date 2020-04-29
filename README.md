@@ -1,6 +1,28 @@
 # Analysis
   
 created:>=2019-01-01 9,674,407 available repository results  
+
+created:2019-01-01..2019-01-08 314,945 repository results  
+created:2019-01-08..2019-01-15 353,402 repository results
+created:2019-01-15..2019-01-22 347,973 repository results  
+created:2019-01-22..2019-01-29 356,323 repository results  
+created:2019-01-29..2019-02-25 1,244,668 repository results
+created:2019-02-05..2019-02-12 343,306 repository results
+created:2019-02-12..2019-02-19 370,399 repository results  
+created:2019-02-19..2019-02-26 393,449 repository results  
+created:2019-02-26..2019-03-05 391,022 repository results  
+created:2019-03-05..2019-03-12 398,056 repository results  
+created:2019-03-12..2019-03-19 407,507 repository results  
+created:2019-03-19..2019-03-26 403,815 repository results  
+created:2019-03-26..2019-04-02 409,652 repository results
+created:2019-04-02..2019-04-09 407,343 repository results  
+created:2019-04-09..2019-04-16 403,814 repository results  
+created:2019-04-16..2019-04-23 374,631 repository results
+created:2019-04-23..2019-04-30 381,536 repository results
+created:2019-04-30..2019-05-07 367,089 repository results
+
+
+
 created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
 created:2019-01-01..2019-02-01 1,365,119 repository results  
 created:2019-02-01..2019-03-01 1,307,976 repository results  
@@ -19,6 +41,7 @@ created:2020-01-01..2020-02-01 1,890,644 repository results
 created:2020-02-01..2020-03-01 2,011,144 repository results  
 created:2020-03-01..2020-04-01 2,488,417 repository results  
 created:2020-04-01..2020-04-28 2,281,036 repository results  
+created:2020-04-01..2020-05-01 2,295,451 repository results  #4/28
 
 
 
