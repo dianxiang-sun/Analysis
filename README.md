@@ -1096,3 +1096,54 @@ in:readme Coronavirus created:>=2020-02-12 location：China 146 repository resul
 in:readme Coronavirus created:>=2020-02-12 location：U.S. 103 repository results  
 in:readme Coronavirus created:>=2020-02-12 location：U.K. 39 repository results  
 in:readme Coronavirus created:>=2020-02-12 location：Germany 51 repository results  
+
+
+
+in:readme Coronavirus created:2020-01-01..2020-02-01   293 repository results  
+Languages
+52 Python  
+40 Jupyter Notebook  
+35 HTML  
+29 JavaScript  
+12 R  
+6 C++  
+6 Java  
+5 PHP  
+4 C#  
+4 Go  
+in:readme Coronavirus created:2020-02-01..2020-03-01  803 repository results
+Languages
+154 Jupyter Notebook  
+114 Python  
+91 HTML  
+89 JavaScript  
+49 R  
+22 Java  
+17 TypeScript  
+15 CSS  
+13 Vue  
+9 C#  
+in:readme Coronavirus created:2020-03-01..2020-04-01  5,894 repository results
+Languages
+952 JavaScript  
+929 Python  
+783 Jupyter Notebook  
+547 HTML  
+258 Java  
+215 R  
+160 TypeScript  
+111 CSS  
+89 Dart  
+86 PHP   
+in:readme Coronavirus created:2020-04-01..2020-05-01  3,561 repository results
+Languages
+580 Python  
+555 Jupyter Notebook  
+544 JavaScript  
+343 HTML  
+132 R  
+121 Java  
+80 TypeScript  
+74 CSS  
+70 Dart  
+48 PHP  
