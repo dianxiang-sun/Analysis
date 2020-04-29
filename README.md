@@ -3,7 +3,7 @@
 created:>=2019-01-01 9,674,407 available repository results  
 created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
 created:2019-01-01..2019-02-01 1,365,119 repository results  
-created:2019-02-01..2019-03-01 1,307,976 repository results
+created:2019-02-01..2019-03-01 1,307,976 repository results  
 created:2019-03-01..2019-04-01 1,568,116 repository results  
 created:2019-04-01..2019-05-01 1,500,361 repository results  
 created:2019-05-01..2019-06-01 1,506,260 repository results  
