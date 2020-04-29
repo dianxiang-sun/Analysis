@@ -1,7 +1,7 @@
 # Analysis
 
-India：Nationwide Lockdown：3/24
-U.S.：Almost All Stay-at-Home Orders Due to Coronavirus Went into Effect: 4/7
+India：Nationwide Lockdown：3/24  
+U.S.：Almost All Stay-at-Home Orders Due to Coronavirus Went into Effect: 4/7  
 https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html
 China：Wuhan：1/23      207 city lockdown：2/12
 U.K.: 3/23
