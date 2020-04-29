@@ -17,7 +17,7 @@ created:2019-12-01..2020-01-01 1,711,556 repository results
 
 created:2020-01-01..2020-02-01 1,890,644 repository results  
 created:2020-02-01..2020-03-01 2,011,144 repository results  
-created:2020-03-01..2020-04-01 2,488,417 repository results 
+created:2020-03-01..2020-04-01 2,488,417 repository results  
 created:2020-04-01..2020-04-28 2,281,036 repository results  
 
 
