@@ -1267,16 +1267,22 @@ Languages
 1 Go  
 1 HTML  
 1 Shell  
-
-
-
-
-
-
-
-
-
-
+created:2019-02-01..2019-03-01 forks:>1000  24 repository results  
+created:2019-03-01..2019-04-01 forks:>1000  19 repository results  
+created:2019-04-01..2019-05-01 forks:>1000  15 repository results  
+created:2019-05-01..2019-06-01 forks:>1000  7 repository results  
+created:2019-06-01..2019-07-01 forks:>1000  10 repository results  
+created:2019-07-01..2019-08-01 forks:>1000  27 repository results  
+created:2019-08-01..2019-09-01 forks:>1000  8 repository results  
+created:2019-09-01..2019-10-01 forks:>1000  14 repository results  
+created:2019-10-01..2019-11-01 forks:>1000  6 repository results  
+created:2019-11-01..2019-12-01 forks:>1000  3 repository results  
+created:2019-12-01..2020-01-01 forks:>1000  2 repository results  
+created:2020-01-01..2020-02-01 forks:>1000  1 repository result  
+created:2020-02-01..2020-03-01 forks:>1000  6 repository results  
+created:2020-03-01..2020-04-01 forks:>1000  4 repository results  
+created:2020-04-01..2020-05-01 forks:>1000  0  
+  
 ---------------------------------------------------------------------------------------------------------
 India：Nationwide Lockdown：3/24  
 U.S.：Almost All Stay-at-Home Orders Due to Coronavirus Went into Effect: 4/7  
