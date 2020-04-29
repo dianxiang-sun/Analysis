@@ -7,7 +7,7 @@ China：Wuhan：1/23      207 city lockdown：2/12
 U.K.: 3/23  
 Germany: 3/18  
 1. Worldwide data:  
-total created from now: 10549      date end: 4/28  
+total created from now: in:readme Coronavirus 10549      date end: 4/28  
 Languages  
 1,693 Python  
 1,594 JavaScript  
