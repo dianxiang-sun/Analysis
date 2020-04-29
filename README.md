@@ -29,3 +29,5 @@ in:readme Coronavirus created:>=2020-02-12 forks:>100 18 repository results
 in:readme Coronavirus created:>=2020-02-12 pushed:>2020-04-25 1,698 repository results
 in:readme Coronavirus created:>=2020-02-12 location：China 146 repository results
 in:readme Coronavirus created:>=2020-02-12 location：U.S. 103 repository results
+in:readme Coronavirus created:>=2020-02-12 location：U.K. 39 repository results
+in:readme Coronavirus created:>=2020-02-12 location：Germany 51 repository results
