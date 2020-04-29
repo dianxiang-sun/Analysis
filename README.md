@@ -630,6 +630,9 @@ Languages
 7,416 PHP  
 
 
+
+
+
 created:2020-01-01..2020-01-08 413,960 repository results  
 Languages
 54,470 JavaScript  
@@ -643,44 +646,423 @@ Languages
 9,154 PHP  
 8,888 C++  
 created:2020-01-08..2020-01-15 492,781 repository results  
+Languages
+64,975 JavaScript  
+49,580 HTML  
+42,044 Java  
+34,482 Python  
+13,866 CSS  
+13,158 C#  
+13,152 Jupyter Notebook  
+11,496 PHP  
+10,925 TypeScript  
+10,788 C++  
 created:2020-01-15..2020-01-22 501,296 repository results  
+Languages
+67,040 JavaScript  
+51,195 HTML  
+41,539 Java  
+35,850 Python  
+14,640 CSS  
+13,984 C#  
+13,924 Jupyter Notebook  
+11,359 PHP  
+11,279 TypeScript  
+11,046 C++  
 created:2020-01-22..2020-01-29 503,966 repository results  
+Languages
+64,979 JavaScript  
+50,848 HTML  
+38,989 Java  
+35,040 Python  
+14,563 CSS  
+14,542 C#  
+13,642 Jupyter Notebook  
+11,493 TypeScript  
+11,326 PHP  
+10,407 C++  
 created:2020-01-29..2020-02-05 521,815 repository results  
+Languages
+68,593 JavaScript  
+53,846 HTML  
+42,416 Java  
+36,620 Python  
+16,759 C#  
+16,038 CSS  
+14,379 Jupyter Notebook  
+12,257 PHP  
+11,752 TypeScript  
+11,153 C++    
 created:2020-02-05..2020-02-12 543,884 repository results  
+Languages
+71,252 JavaScript  
+58,395 HTML  
+49,289 Java  
+38,831 Python  
+17,388 CSS  
+15,988 Jupyter Notebook  
+15,773 C#  
+13,210 PHP  
+12,138 TypeScript  
+11,658 C++  
 created:2020-02-12..2020-02-19 550,511 repository results  
+Languages
+72,761 JavaScript  
+58,867 HTML  
+48,039 Java  
+39,624 Python  
+17,798 CSS  
+15,910 Jupyter Notebook  
+15,846 C#  
+13,499 PHP  
+12,305 TypeScript  
+11,720 C++  
 created:2020-02-19..2020-02-26 564,188 repository results  
+Languages
+72,407 JavaScript  
+61,156 HTML  
+50,532 Java  
+40,398 Python  
+17,057 CSS  
+16,307 C#  
+15,430 Jupyter Notebook  
+12,821 PHP  
+12,732 TypeScript  
+12,243 C++  
 created:2020-02-26..2020-03-04 580,548 repository results  
+Languages
+74,186 JavaScript  
+61,003 HTML  
+50,865 Java  
+40,936 Python  
+16,932 C#  
+16,772 CSS  
+16,561 Jupyter Notebook  
+13,400 PHP  
+12,909 TypeScript  
+12,653 C++  
 created:2020-03-04..2020-03-11 578,655 repository results  
+Languages
+74,902 JavaScript  
+60,476 HTML  
+51,066 Java  
+40,839 Python  
+16,968 CSS  
+16,704 C#  
+15,553 Jupyter Notebook  
+13,618 PHP  
+12,628 C++  
+12,611 TypeScript  
 created:2020-03-11..2020-03-18 559,507 repository results  
+Languages
+72,429 JavaScript  
+56,471 HTML  
+46,972 Java  
+39,308 Python  
+16,285 CSS  
+15,296 C#  
+14,928 Jupyter Notebook  
+13,011 PHP  
+12,202 TypeScript  
+12,067 C++  
 created:2020-03-18..2020-03-25 621,558 repository results  
+Languages
+83,249 JavaScript  
+60,637 HTML  
+49,293 Java  
+42,765 Python  
+17,218 CSS  
+15,966 Jupyter Notebook  
+15,957 C#  
+13,215 TypeScript  
+13,209 PHP  
+12,887 C++  
 created:2020-03-25..2020-04-01 749,254 repository results  
+Languages
+96,197 JavaScript  
+68,113 HTML  
+52,780 Java  
+46,085 Python  
+19,630 CSS  
+18,715 Jupyter Notebook  
+16,965 C#  
+14,193 C++  
+14,158 TypeScript  
+13,798 PHP  
 created:2020-04-01..2020-04-08 669,435 repository results  
+Languages
+89,905 JavaScript  
+70,597 HTML  
+52,544 Java  
+46,564 Python  
+20,421 CSS  
+17,988 Jupyter Notebook  
+16,427 C#  
+14,215 TypeScript  
+13,819 PHP  
+13,681 C++  
 created:2020-04-08..2020-04-15 642,219 repository results  
+Languages
+94,271 JavaScript  
+73,730 HTML  
+53,856 Java  
+48,947 Python  
+20,586 CSS  
+19,627 Jupyter Notebook  
+16,521 C#  
+16,114 Ruby  
+15,100 TypeScript  
+14,571 PHP  
 created:2020-04-15..2020-04-22 654,596 repository results  
+Languages
+93,523 JavaScript  
+76,972 HTML  
+54,827 Java  
+49,799 Python  
+22,172 CSS  
+19,103 Jupyter Notebook  
+18,669 Ruby  
+17,844 C#  
+16,954 TypeScript  
+14,868 PHP  
 created:2020-04-22..2020-04-29 595,465 repository results  
+Languages
+82,669 JavaScript  
+69,154 HTML  
+50,607 Java  
+44,725 Python  
+21,064 CSS  
+17,410 Jupyter Notebook  
+16,700 Ruby  
+15,139 C#  
+15,064 TypeScript  
+13,194 PHP  
 
-Monthly  
 
 created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
+Languages
+1,288,859 JavaScript  
+1,015,110 HTML  
+992,481 Java  
+671,755 Python  
+279,581 CSS    
+266,078 C#  
+244,769 PHP  
+242,758 Jupyter Notebook  
+226,019 C++  
+203,178 TypeScript  
+
+Monthly    
+
 created:2019-01-01..2019-02-01 1,365,119 repository results  
+Languages
+198,890 JavaScript  
+145,234 Java  
+143,582 HTML  
+108,357 Python  
+41,933 C#  
+41,763 CSS  
+39,795 PHP  
+38,929 C++  
+35,528 Jupyter Notebook  
+30,743 TypeScript  
 created:2019-02-01..2019-03-01 1,307,976 repository results  
+Languages
+192,037 JavaScript  
+141,989 HTML  
+140,540 Java  
+106,160 Python  
+41,820 CSS  
+41,291 C#  
+37,766 PHP  
+37,443 Jupyter Notebook  
+35,548 C++  
+30,835 TypeScript  
 created:2019-03-01..2019-04-01 1,568,116 repository results  
+Languages
+223,208 JavaScript  
+177,249 Java  
+165,729 HTML  
+123,274 Python  
+48,684 CSS  
+48,046 C#  
+45,522 C++  
+43,905 Jupyter Notebook  
+43,321 PHP  
+36,061 TypeScript  
 created:2019-04-01..2019-05-01 1,500,361 repository results  
+Languages
+215,511 JavaScript  
+164,962 Java  
+151,860 HTML  
+118,964 Python  
+46,533 C#  
+45,843 CSS  
+43,658 C++  
+42,924 Jupyter Notebook  
+42,187 PHP  
+35,187 TypeScript  
 created:2019-05-01..2019-06-01 1,506,260 repository results  
+Languages
+216,644 JavaScript  
+162,537 Java  
+155,379 HTML  
+119,188 Python  
+46,902 CSS  
+45,910 C#  
+43,039 C++  
+42,450 PHP  
+41,991 Jupyter Notebook  
+35,261 TypeScript  
 created:2019-06-01..2019-07-01 1,411,985 repository results  
+Languages
+206,179 JavaScript  
+147,287 Java  
+145,021 HTML  
+114,425 Python  
+44,716 CSS  
+43,318 Jupyter Notebook  
+39,754 C#  
+37,479 PHP  
+35,138 TypeScript  
+34,949 C++  
 created:2019-07-01..2019-08-01 1,497,870 repository results  
+Languages
+223,105 JavaScript  
+153,021 HTML  
+152,618 Java  
+120,002 Python  
+47,659 CSS  
+47,041 Jupyter Notebook  
+40,287 C#  
+39,791 PHP  
+38,916 TypeScript  
+34,444 C++  
 created:2019-08-01..2019-09-01 1,663,019 repository results  
+Languages
+216,852 JavaScript  
+207,355 HTML  
+145,430 Java  
+114,691 Python  
+46,402 CSS  
+43,880 Jupyter Notebook  
+41,074 C#  
+40,177 PHP  
+38,074 TypeScript  
+34,329 C++  
 created:2019-09-01..2019-10-01 1,971,744 repository results  
+Languages
+357,658 HTML  
+227,464 JavaScript  
+169,161 Java  
+129,769 Python  
+51,710 CSS  
+51,140 C#  
+48,811 Jupyter Notebook  
+43,402 PHP  
+42,439 C++  
+38,581 TypeScript  
 created:2019-10-01..2019-11-01 1,933,073 repository results  
+Languages
+246,649 JavaScript  
+198,895 HTML  
+182,275 Java  
+139,063 Python  
+57,363 C#  
+55,778 CSS  
+51,560 Jupyter Notebook  
+46,777 C++  
+45,502 PHP  
+41,592 TypeScript  
 created:2019-11-01..2019-12-01 1,893,309 repository results  
+Languages
+239,913 JavaScript  
+182,929 HTML  
+176,710 Java  
+138,885 Python  
+54,037 CSS  
+53,797 C#  
+51,826 Jupyter Notebook  
+45,329 C++  
+45,168 PHP  
+42,076 TypeScript  
 created:2019-12-01..2020-01-01 1,711,556 repository results  
+Languages
+217,717 JavaScript  
+163,910 HTML  
+154,472 Java  
+129,838 Python  
+48,455 CSS  
+45,997 C#  
+45,801 Jupyter Notebook  
+40,139 C++  
+39,753 PHP  
+38,221 TypeScript  
 
 created:2020-01-01..2020-02-01 1,890,644 repository results  
+Languages
+248,951 JavaScript  
+189,338 HTML  
+156,044 Java  
+134,366 Python  
+54,650 CSS  
+52,881 C#  
+51,704 Jupyter Notebook  
+42,811 TypeScript  
+42,616 PHP  
+40,806 C++  
 created:2020-02-01..2020-03-01 2,011,144 repository results  
+Languages
+262,453 JavaScript  
+214,672 HTML  
+177,017 Java  
+145,240 Python  
+62,702 CSS  
+58,831 C#  
+57,620 Jupyter Notebook  
+47,628 PHP  
+45,324 TypeScript  
+43,703 C++  
 created:2020-03-01..2020-04-01 2,488,417 repository results  
+Languages 
+321,375 JavaScript  
+244,855 HTML  
+199,982 Java  
+167,885 Python  
+69,714 CSS  
+65,731 Jupyter Notebook  
+65,228 C#  
+53,306 PHP  
+52,005 TypeScript  
+51,497 C++  
 created:2020-04-01..2020-04-28 2,281,036 repository results  
+Languages
+320,254 JavaScript  
+257,634 HTML  
+187,415 Java  
+168,957 Python
+74,995 CSS    
+66,268 Jupyter Notebook
+58,653 C#    
+54,499 TypeScript  
+53,015 Ruby    
+49,952 PHP  
+47,496 C++
 created:2020-04-01..2020-05-01 2,295,451 repository results  #4/28
+Languages
+323,880 JavaScript  
+261,162 HTML  
+190,215 Java  
+171,044 Python  
+75,997 CSS  
+67,015 Jupyter Notebook  
+59,321 C#  
+55,139 TypeScript   
+53,975 Ruby  
+50,563 PHP  
+48,112 C++
 
+-----------------------------------------------------------------------------------------------------
 
 
 India：Nationwide Lockdown：3/24  
