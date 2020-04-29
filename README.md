@@ -42,6 +42,36 @@ created:2019-09-10..2019-09-17 546,667 repository results
 created:2019-09-17..2019-09-24 515,812 repository results  
 created:2019-09-24..2019-10-01 483,241 repository results  
 created:2019-10-01..2019-10-08 457,689 repository results  
+created:2019-10-08..2019-10-15 497,116 repository results  
+created:2019-10-15..2019-10-22 508,918 repository results  
+created:2019-10-22..2019-10-29 491,226 repository results  
+created:2019-10-29..2019-11-05 489,840 repository results  
+created:2019-11-05..2019-11-12 507,985 repository results  
+created:2019-11-12..2019-11-19 518,426 repository results  
+created:2019-11-19..2019-11-26 514,139 repository results  
+created:2019-11-26..2019-12-03 494,173 repository results  
+created:2019-12-03..2019-12-10 501,486 repository results  
+created:2019-12-10..2019-12-17 474,149 repository results  
+created:2019-12-17..2019-12-24 415,642 repository results  
+created:2019-12-24..2019-12-31 341,162 repository results  
+
+created:2020-01-01..2020-01-08 413,960 repository results  
+created:2020-01-08..2020-01-15 492,781 repository results  
+created:2020-01-15..2020-01-22 501,296 repository results  
+created:2020-01-22..2020-01-29 503,966 repository results  
+created:2020-01-29..2020-02-05 521,815 repository results  
+created:2020-02-05..2020-02-12 543,884 repository results  
+created:2020-02-12..2020-02-19 550,511 repository results  
+created:2020-02-19..2020-02-26 564,188 repository results  
+created:2020-02-26..2020-03-04 580,548 repository results  
+created:2020-03-04..2020-03-11 578,655 repository results  
+created:2020-03-11..2020-03-18 559,507 repository results  
+created:2020-03-18..2020-03-25 621,558 repository results  
+created:2020-03-25..2020-04-01 749,254 repository results  
+created:2020-04-01..2020-04-08 669,435 repository results  
+created:2020-04-08..2020-04-15 642,219 repository results  
+created:2020-04-15..2020-04-22 654,596 repository results  
+created:2020-04-22..2020-04-29 595,465 repository results  
 
 
 created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
