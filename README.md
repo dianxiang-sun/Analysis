@@ -1330,7 +1330,7 @@ Languages
 5 PHP  
 4 C#  
 4 Go  
-in:readme Coronavirus created:2020-02-01..2020-03-01  803 repository results
+in:readme Coronavirus created:2020-02-01..2020-03-01  803 repository results  
 Languages
 154 Jupyter Notebook  
 114 Python  
@@ -1342,7 +1342,7 @@ Languages
 15 CSS  
 13 Vue  
 9 C#  
-in:readme Coronavirus created:2020-03-01..2020-04-01  5,894 repository results
+in:readme Coronavirus created:2020-03-01..2020-04-01  5,894 repository results  
 Languages
 952 JavaScript  
 929 Python  
@@ -1354,7 +1354,7 @@ Languages
 111 CSS  
 89 Dart  
 86 PHP   
-in:readme Coronavirus created:2020-04-01..2020-05-01  3,561 repository results
+in:readme Coronavirus created:2020-04-01..2020-05-01  3,561 repository results  
 Languages
 580 Python  
 555 Jupyter Notebook  
