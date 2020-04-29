@@ -125,17 +125,149 @@ Languages
 10,941 PHP  
 8,762 TypeScript  
 created:2019-03-12..2019-03-19 407,507 repository results  
+Languages
+56,688 JavaScript  
+46,886 Java  
+42,860 HTML  
+31,457 Python  
+12,684 CSS  
+12,486 C#  
+11,742 PHP  
+11,700 C++    
+11,337 Jupyter Notebook  
+9,204 TypeScript  
 created:2019-03-19..2019-03-26 403,815 repository results  
+Languages
+57,294 JavaScript  
+45,779 Java  
+42,850 HTML  
+31,827 Python  
+12,419 C#  
+12,297 CSS  
+11,669 C++  
+11,219 PHP  
+11,067 Jupyter Notebook  
+9,657 TypeScript  
 created:2019-03-26..2019-04-02 409,652 repository results  
+Languages
+58,142 JavaScript  
+46,311 Java  
+43,157 HTML  
+31,736 Python  
+12,608 C#  
+12,290 CSS  
+12,109 C++  
+11,762 Jupyter Notebook  
+11,071 PHP  
+9,522 TypeScript  
 created:2019-04-02..2019-04-09 407,343 repository results  
+Languages
+58,421 JavaScript  
+44,727 Java  
+41,983 HTML  
+32,472 Python  
+12,729 C#  
+12,021 CSS  
+11,816 C++  
+11,591 Jupyter Notebook  
+11,475 PHP  
+9,649 TypeScript  
 created:2019-04-09..2019-04-16 403,814 repository results  
+Languages
+58,609 JavaScript  
+45,277 Java  
+40,405 HTML    
+31,522 Python  
+12,335 C++  
+12,246 C#  
+12,067 CSS  
+11,531 Jupyter Notebook  
+11,324 PHP  
+9,339 TypeScript  
 created:2019-04-16..2019-04-23 374,631 repository results  
+Languages
+53,333 JavaScript  
+40,841 Java  
+37,709 HTML  
+29,742 Python  
+11,537 CSS  
+11,234 C#  
+10,960 C++  
+10,661 Jupyter Notebook  
+10,510 PHP  
+8,646 TypeScript  
 created:2019-04-23..2019-04-30 381,536 repository results  
+Languages
+54,489 JavaScript  
+41,616 Java  
+38,175 HTML  
+30,132 Python  
+12,318 C#  
+12,216 CSS  
+10,939 PHP  
+10,508 C++   
+10,048 Jupyter Notebook  
+9,051 TypeScript  
 created:2019-04-30..2019-05-07 367,089 repository results  
+Languages
+54,253 JavaScript  
+39,475 Java  
+37,654 HTML  
+28,663 Python  
+11,506 CSS  
+11,167 C#  
+10,783 C++  
+10,280 PHP  
+10,144 Jupyter Notebook  
+8,748 TypeScript  
 created:2019-05-07..2019-05-14 393,562 repository results  
+Languages
+56,342 JavaScript  
+42,471 Java  
+40,474 HTML  
+30,586 Python  
+12,096 C#  
+12,065 CSS  
+11,095 PHP  
+11,079 Jupyter Notebook  
+11,001 C++  
+9,102 TypeScript  
 created:2019-05-14..2019-05-21 390,419 repository results  
+Languages
+55,780 JavaScript  
+42,584 Java  
+39,775 HTML  
+30,924 Python  
+12,207  CSS  
+12,056 C#  
+11,276 Jupyter Notebook  
+11,025 C++  
+10,961 PHP  
+8,929 TypeScript  
 created:2019-05-21..2019-05-28 384,057 repository results  
+Languages
+54,766 JavaScript  
+41,627 Java  
+39,923 HTML  
+30,320 Python  
+12,056 CSS  
+11,807 C#  
+11,394 PHP  
+10,922 C++  
+10,283 Jupyter Notebook  
+8,901 TypeScript  
 created:2019-05-28..2019-06-04 381,458 repository results  
+Languages
+55,601 JavaScript  
+40,498 Java  
+39,866 HTML  
+30,957 Python  
+11,961 CSS  
+11,406 C#  
+10,589 Jupyter Notebook  
+10,521 PHP  
+10,178 C++    
+9,069 TypeScript  
 created:2019-06-04..2019-06-11 367,951 repository results  
 created:2019-06-11..2019-06-18 377,330 repository results  
 created:2019-06-18..2019-06-25 383,911 repository results  
