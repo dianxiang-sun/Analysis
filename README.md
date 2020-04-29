@@ -1,4 +1,26 @@
 # Analysis
+  
+created:>=2019-01-01 9,674,407 available repository results  
+created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
+created:2019-01-01..2019-02-01 1,365,119 repository results  
+created:2019-02-01..2019-03-01 1,307,976 repository results
+created:2019-03-01..2019-04-01 1,568,116 repository results  
+created:2019-04-01..2019-05-01 1,500,361 repository results  
+created:2019-05-01..2019-06-01 1,506,260 repository results  
+created:2019-06-01..2019-07-01 1,411,985 repository results  
+created:2019-07-01..2019-08-01 1,497,870 repository results  
+created:2019-08-01..2019-09-01 1,663,019 repository results  
+created:2019-09-01..2019-10-01 1,971,744 repository results  
+created:2019-10-01..2019-11-01 1,933,073 repository results  
+created:2019-11-01..2019-12-01 1,893,309 repository results  
+created:2019-12-01..2020-01-01 1,711,556 repository results  
+
+created:2020-01-01..2020-02-01 1,890,644 repository results
+created:2020-02-01..2020-03-01 2,011,144 repository results
+created:2020-03-01..2020-04-01 2,488,417 repository results
+created:2020-04-01..2020-04-28 2,281,036 repository results
+
+
 
 India：Nationwide Lockdown：3/24  
 U.S.：Almost All Stay-at-Home Orders Due to Coronavirus Went into Effect: 4/7  
