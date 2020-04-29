@@ -24,10 +24,24 @@ created:2019-05-07..2019-05-14 393,562 repository results
 created:2019-05-14..2019-05-21 390,419 repository results  
 created:2019-05-21..2019-05-28 384,057 repository results  
 created:2019-05-28..2019-06-04 381,458 repository results  
-
-
-
-
+created:2019-06-04..2019-06-11 367,951 repository results  
+created:2019-06-11..2019-06-18 377,330 repository results  
+created:2019-06-18..2019-06-25 383,911 repository results  
+created:2019-06-25..2019-07-02 377,793 repository results  
+created:2019-07-02..2019-07-09 370,106 repository results  
+created:2019-07-09..2019-07-16 382,184 repository results  
+created:2019-07-16..2019-07-23 380,650 repository results  
+created:2019-07-23..2019-07-30 374,320 repository results  
+created:2019-07-30..2019-08-06 368,277 repository results  
+created:2019-08-06..2019-08-13 402,610 repository results  
+created:2019-08-13..2019-08-20 416,684 repository results  
+created:2019-08-20..2019-08-27 459,902 repository results  
+created:2019-08-27..2019-09-03 493,571 repository results  
+created:2019-09-03..2019-09-10 545,380 repository results  
+created:2019-09-10..2019-09-17 546,667 repository results  
+created:2019-09-17..2019-09-24 515,812 repository results  
+created:2019-09-24..2019-10-01 483,241 repository results  
+created:2019-10-01..2019-10-08 457,689 repository results  
 
 
 created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
