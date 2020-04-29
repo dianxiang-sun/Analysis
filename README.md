@@ -1047,7 +1047,7 @@ Languages
 54,499 TypeScript  
 53,015 Ruby    
 49,952 PHP  
-47,496 C++
+47,496 C++  
 created:2020-04-01..2020-05-01 2,295,451 repository results  #4/28
 Languages
 323,880 JavaScript  
@@ -1060,11 +1060,58 @@ Languages
 55,139 TypeScript   
 53,975 Ruby  
 50,563 PHP  
-48,112 C++
+48,112 C++  
 
 -----------------------------------------------------------------------------------------------------
+created:2019-01-01..2019-02-01 stars:>1000  165 repository results
+Languages
+27  Python  
+25  JavaScript  
+23  Go  
+13  Java  
+11  C++  
+10  Jupyter Notebook  
+9  TypeScript  
+5  HTML  
+4  Dart  
+4  Shell  
+created:2019-02-01..2019-03-01 stars:>1000  109 repository results
+Languages
+24 Python  
+20 JavaScript  
+11 Go  
+5 Java  
+5 Jupyter Notebook  
+5 TypeScript  
+4 Swift  
+3 C#  
+2 C++  
+2 Kotlin   
+created:2019-03-01..2019-04-01 stars:>1000  137 repository results
+Languages
+26  Python  
+20  JavaScript  
+14  Go  
+10  Java  
+6  TypeScript  
+4  Dart  
+4  HTML  
+4  Jupyter Notebook  
+4  Rust  
+4  Shell  
 
 
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------
 India：Nationwide Lockdown：3/24  
 U.S.：Almost All Stay-at-Home Orders Due to Coronavirus Went into Effect: 4/7  
 https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html  
