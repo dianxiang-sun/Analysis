@@ -20,6 +20,13 @@ created:2019-04-09..2019-04-16 403,814 repository results
 created:2019-04-16..2019-04-23 374,631 repository results  
 created:2019-04-23..2019-04-30 381,536 repository results  
 created:2019-04-30..2019-05-07 367,089 repository results  
+created:2019-05-07..2019-05-14 393,562 repository results  
+created:2019-05-14..2019-05-21 390,419 repository results
+created:2019-05-21..2019-05-28 384,057 repository results  
+created:2019-05-28..2019-06-04 381,458 repository results  
+
+
+
 
 
 
