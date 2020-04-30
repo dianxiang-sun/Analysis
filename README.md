@@ -399,7 +399,8 @@ Languages
 11,417 Jupyter Notebook  
 10,238 C#  
 9,385 TypeScript  
-8,314 Ruby  
+8,314 Ruby 
+8,001 C++  
 created:2019-08-20..2019-08-27 459,902 repository results  
 Languages
 57,675 JavaScript  
