@@ -422,7 +422,7 @@ Languages
 12,127 CSS  
 11,471 C#  
 11,192 Jupyter Notebook  
-10,17 9PHP  
+10,179 PHP  
 9,844 C++  
 9,719 TypeScript  
 created:2019-09-03..2019-09-10 545,380 repository results  
@@ -814,6 +814,7 @@ Languages
 16,114 Ruby  
 15,100 TypeScript  
 14,571 PHP  
+13,688 c++  
 created:2020-04-15..2020-04-22 654,596 repository results  
 Languages
 93,523 JavaScript  
@@ -826,7 +827,8 @@ Languages
 17,844 C#  
 16,954 TypeScript  
 14,868 PHP  
-created:2020-04-22..2020-04-29 656,559 repository results    
+13,894  c++  
+created:2020-04-22..2020-04-29 651,680 repository results  
 Languages
 82,669 JavaScript  
 69,154 HTML  
@@ -838,7 +840,7 @@ Languages
 15,139 C#  
 15,064 TypeScript  
 13,194 PHP  
-
+13,387 c++  
 
 created:2019-01-01..2020-01-01 Showing 15,838,260 available repository results  
 Languages
